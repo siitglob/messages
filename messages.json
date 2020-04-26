@@ -2,11 +2,11 @@
     {
         "label": "Love Messages",
         "key": "love_message",
-        "messages: []
+        "messages": []
     },
     {
         "label": "Birthday Messages",
         "key": "birthday_message",
-        "messages: []
+        "messages": []
     }
 ]
