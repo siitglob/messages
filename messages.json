@@ -13,7 +13,10 @@
     {
         "label": "Birthday Messages",
         "key": "birthday_message",
-        "messages": []
+        "messages": [
+            "Happy birthday, my love! I'm so happy that we are spending it together. Know that my love will stay with you always, no matter what.",
+            "It is easy to just say I Love You these days, so I will say I Love You with my actions, each and every day. Happy birthday, darling!"
+        ]
     },
     {
         "label": "Wedding Messages",
