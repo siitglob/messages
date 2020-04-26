@@ -8,5 +8,10 @@
         "label": "Birthday Messages",
         "key": "birthday_message",
         "messages": []
+    },
+    {
+        "label": "Wedding Messages",
+        "key": "wedding_message",
+        "messages": []
     }
 ]
