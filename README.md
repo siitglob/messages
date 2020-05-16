@@ -2,6 +2,8 @@
 
 Add a new message type format:
 
+Create a new file with the key of the message. `message_key` for instance Love Message - `love_message`. Then use the format below to construct a message type.
+
 ```json
 {
   "label": "Message label",
@@ -9,7 +11,7 @@ Add a new message type format:
   "messages": [
   "list of messages seperated by double quotes and comma"
   ]
-},    
+}  
 ```
 
 Add a new message:
