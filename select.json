@@ -1,0 +1,6 @@
+[
+  { "label": "Love Messages", "key": "love_message" }, 
+  { "label": "Birthday Messages", "key": "birthday_message" }, 
+  { "label": "Wedding Messages", "key": "wedding_message"}, 
+  { "label": "Cute Messages", "key": "cute_message"}
+] 
