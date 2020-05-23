@@ -1,5 +1,11 @@
 {
         "label": "Wedding Messages",
         "key": "wedding_message",
-        "messages": ["Wishing you a lifetime of love and happiness.", "Your wedding day will come and go, but may your love forever grow.", "Best wishes on this wonderful journey, as you build your new lives together."]
+        "messages": [
+                "Wishing you a lifetime of love and happiness.", 
+                "Your wedding day will come and go, but may your love forever grow.", 
+                "Best wishes on this wonderful journey, as you build your new lives together.",
+                "May the love and happiness you feel today shine through the years.",
+                "Wishing you joy, love and happiness on your wedding day and as you begin your new life together."
+        ]
     }
