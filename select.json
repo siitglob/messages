@@ -6,7 +6,7 @@
   { "label": "Cute Messages", "key": "cute_messages" }, 
   { "label": "I Am Sorry Messages", "key": "sorry_messages" }, 
   { "label": "Missing You Messages", "key": "miss_messages" }, 
-  { "label": "Romantic Messages", "key": "romantic_messages"}
+  { "label": "Romantic Messages", "key": "romantic_messages"},
   { "label": "Sweet Messages", "key": "sweet_messages" }, 
   { "label": "Apology Messages", "key": "apology_messages" } 
 ] 
