@@ -1,6 +1,12 @@
 [
-  { "label": "Love Messages", "key": "love_message" }, 
-  { "label": "Birthday Messages", "key": "birthday_message" }, 
-  { "label": "Wedding Messages", "key": "wedding_message"}, 
-  { "label": "Cute Messages", "key": "cute_message"}
+  { "label": "Love Messages", "key": "love_messages" }, 
+  { "label": "Flirt Messages", "key": "flirt_messages" }, 
+  { "label": "Dating Messages", "key": "dating_messages" }, 
+  { "label": "Birthday Messages", "key": "birthday_messages" },
+  { "label": "Cute Messages", "key": "cute_messages" }, 
+  { "label": "I Am Sorry Messages", "key": "sorry_messages" }, 
+  { "label": "Missing You Messages", "key": "miss_messages" }, 
+  { "label": "Romantic Messages", "key": "romantic_messages"}
+  { "label": "Sweet Messages", "key": "sweet_messages" }, 
+  { "label": "Apology Messages", "key": "apology_messages" } 
 ] 
