@@ -7,6 +7,6 @@
   { "label": "I Am Sorry Messages", "key": "sorry_messages" }, 
   { "label": "Missing You Messages", "key": "miss_messages" }, 
   { "label": "Romantic Messages", "key": "romantic_messages"},
-  { "label": "Wedding Wishes", "key": "wedding_wishes" }, 
-  { "label": "Apology Messages", "key": "apology_messages" } 
+  { "label": "Wedding Wishes", "key": "wedding_wishes" } 
+
 ] 
