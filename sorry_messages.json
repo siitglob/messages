@@ -1,6 +1,6 @@
 {
-        "label": "I Am Sorry Messages",
-        "key": "sorry_messages",
+        "label": "Apology Messages",
+        "key": "apology_messages",
         "messages": [
 "I am really sorry about what what happened. Please accept my heartfelt apology and my promise never to let this happen again.",
 
