@@ -8,5 +8,6 @@
   { "label": "Missing You Messages", "key": "miss_messages" }, 
   { "label": "Romantic Messages", "key": "romantic_messages"},
   { "label": "Wedding Wishes", "key": "wedding_wishes" } 
+  { "label": "Relationship Quotes", "key": "relationship_quotes" } 
 
 ] 
