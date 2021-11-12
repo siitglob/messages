@@ -7,6 +7,7 @@
   { "label": "Apology Messages", "key": "apology_messages" }, 
   { "label": "Missing You Messages", "key": "miss_messages" }, 
   { "label": "Romantic Messages", "key": "romantic_messages"},
+  { "label": "Love Poems", "key": "love_poems" },
   { "label": "Wedding Wishes", "key": "wedding_wishes" },
   { "label": "Relationship Quotes", "key": "relationship_quotes" } 
 
